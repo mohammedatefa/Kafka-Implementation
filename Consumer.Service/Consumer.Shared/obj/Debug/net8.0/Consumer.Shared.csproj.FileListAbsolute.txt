@@ -1,0 +1,11 @@
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\bin\Debug\net8.0\Consumer.Shared.deps.json
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\bin\Debug\net8.0\Consumer.Shared.dll
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\bin\Debug\net8.0\Consumer.Shared.pdb
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.AssemblyInfoInputs.cache
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.AssemblyInfo.cs
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.csproj.CoreCompileInputs.cache
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.dll
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\refint\Consumer.Shared.dll
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\Consumer.Shared.pdb
+D:\Kafka Implement\Consumer.Service\Consumer.Shared\obj\Debug\net8.0\ref\Consumer.Shared.dll

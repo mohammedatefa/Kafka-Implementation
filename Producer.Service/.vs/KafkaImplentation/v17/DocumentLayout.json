@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kafka Implement\\KafkaImplentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866DBA7B-4B75-499A-8FF9-1558E7F05BCC}|KafkaImplentation\\KafkaImplentation.csproj|d:\\kafka implement\\kafkaimplentation\\kafkaimplentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866DBA7B-4B75-499A-8FF9-1558E7F05BCC}|KafkaImplentation\\KafkaImplentation.csproj|solutionrelative:kafkaimplentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866DBA7B-4B75-499A-8FF9-1558E7F05BCC}|KafkaImplentation\\KafkaImplentation.csproj|d:\\kafka implement\\kafkaimplentation\\kafkaimplentation\\databasecontext\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866DBA7B-4B75-499A-8FF9-1558E7F05BCC}|KafkaImplentation\\KafkaImplentation.csproj|solutionrelative:kafkaimplentation\\databasecontext\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Kafka Implement\\KafkaImplentation\\KafkaImplentation\\DataBaseContext\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "KafkaImplentation\\DataBaseContext\\Models\\Employee.cs",
+              "ToolTip": "D:\\Kafka Implement\\KafkaImplentation\\KafkaImplentation\\DataBaseContext\\Models\\Employee.cs",
+              "RelativeToolTip": "KafkaImplentation\\DataBaseContext\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:37:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Kafka Implement\\KafkaImplentation\\KafkaImplentation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "KafkaImplentation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Kafka Implement\\KafkaImplentation\\KafkaImplentation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "KafkaImplentation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwDMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:55:03.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

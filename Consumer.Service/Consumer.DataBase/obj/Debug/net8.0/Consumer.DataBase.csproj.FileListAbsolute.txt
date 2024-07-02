@@ -1,0 +1,17 @@
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.DataBase.deps.json
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.DataBase.runtimeconfig.json
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.DataBase.dll
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.DataBase.pdb
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.Shared.dll
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\bin\Debug\net8.0\Consumer.Shared.pdb
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.csproj.AssemblyReference.cache
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.AssemblyInfoInputs.cache
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.AssemblyInfo.cs
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.csproj.CoreCompileInputs.cache
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.F28B1F48.Up2Date
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.dll
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\refint\Consumer.DataBase.dll
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.pdb
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\Consumer.DataBase.genruntimeconfig.cache
+D:\Kafka Implement\Consumer.Service\Consumer.DataBase\obj\Debug\net8.0\ref\Consumer.DataBase.dll
